@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\include\Angel.h(60,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\include\mat.h(707,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\include\mat.h(708,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\include\mat.h(709,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\include\mat.h(730,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\include\mat.h(732,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\include\mat.h(735,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\include\mat.h(752,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(20,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(21,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(330,51): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(400,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(407,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(443,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(450,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(486,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(493,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(530,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(537,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(574,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(582,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(621,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(629,85): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(733,93): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(740,93): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(773,93): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(780,89): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(813,93): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(821,93): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(853,93): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(860,89): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(1053,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(1053,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(1107,25): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(1107,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(1158,35): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(1157,62): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(1161,28): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\main.cpp(1160,50): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+  Assignment2_project.vcxproj -> C:\Users\BYALCIN17\Desktop\COMP410\Assignment2\Assignment2_project\x64\Debug\Assignment2_project.exe

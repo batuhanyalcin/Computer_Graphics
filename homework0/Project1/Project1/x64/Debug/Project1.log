@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\Project1\include\Angel.h(60,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\Project1\include\mat.h(707,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\Project1\include\mat.h(708,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\Project1\include\mat.h(709,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\Project1\include\mat.h(730,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\Project1\include\mat.h(732,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\Project1\include\mat.h(735,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\Project1\include\mat.h(752,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Project1.vcxproj -> C:\Users\BYALCIN17\Desktop\OPENGL\test\Project1\x64\Debug\Project1.exe
